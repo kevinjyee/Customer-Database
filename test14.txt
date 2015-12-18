@@ -1,0 +1,54 @@
+Inventory Bottles 100
+
+Purchase Craig Bottles 40
+Purchase Craig Bottles 10
+Purchase Craig Bottles 10
+
+Purchase Craig Diapers 0
+
+Purchase Vivian Diapers 0 
+Purchase Vivian Diapers 1
+
+Inventory Diapers 100
+
+Purchase Vivian Diapers 30
+
+SKU Dolls
+
+Purchase Rachel Dolls 10
+
+Inventory Dolls 10
+
+Purchase Rachel Dolls 100
+Purchase Rachel Dolls 10
+
+Purchase Quincy Rattles 100
+
+Inventory Rattles 100
+
+Purchase Quincy Rattles 43
+
+SKU Cars
+Inventory Cars 10
+
+Purchase Sadie Cars 3
+Purchase Sean Cars 2
+
+Summarize
+
+Quit
+
+
+/** test9 Results should be: **/
+Sorry Vivian, we only have 0 Diapers
+Sorry Rachel, we only have 0 Dolls
+Sorry Rachel, we only have 10 Dolls
+Sorry Quincy, we only have 0 Rattles
+There are 40 Bottles, 70 Diapers, 57 Rattles, 0 Dolls and 5 Cars in inventory
+we have had a total of 6 different customers
+Craig has purchased the most Bottles (60)
+Vivian has purchased the most Diapers (30)
+Quincy has purchased the most Rattles (43)
+Rachel has purchased the most Dolls (10)
+Sadie has purchased the most Cars (3)
+/*********** end of test 9 ************/

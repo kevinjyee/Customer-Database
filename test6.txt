@@ -1,0 +1,12 @@
+Summarize
+Quit
+/*** end of test 6 ***/
+
+/*** test 6 results should be ***/
+There are 0 Bottles, 0 Diapers, 0 Rattles, 0 BabyWipes, and 0 Pacifiers in inventory
+we have had a total of 0 different customers
+no one has purchased any Bottles
+no one has purchased any Diapers
+no one has purchased any Rattles
+no one has purchased any BabyWipes
+no one has purchased any Pacifiers
